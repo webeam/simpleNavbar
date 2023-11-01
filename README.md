@@ -1,4 +1,4 @@
 # Simple Navigation Bar Comopnent 
 
 [![Watch the video](https://img.youtube.com/vi/noqhhmsptol/hqdefault.jpg
-)](https://youtu.be/noqhhmsptol)
+)](https://www.youtube.com/watch?v=noqhhmsptol)
